@@ -13,4 +13,9 @@ spring:
   profiles: test
   application:
     name: microservicescloud-config-test
+    
+spring:
+  profiles: file
+  application:
+    name: microservicescloud-config-file
   
